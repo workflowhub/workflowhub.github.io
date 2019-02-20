@@ -1,0 +1,18 @@
+# Setup
+title:        WorkflowHub
+tagline:      A Hub for enabling scientific workflow research.
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Rafael Ferreira da Silva
+  url:        http://rafaelsilva.com
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
