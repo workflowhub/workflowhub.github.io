@@ -481,6 +481,10 @@ a:hover {
     max-width: 100%;
 }
 
+.main-content p {
+    font-size: 0.9em;
+}
+
 .main-content h1 {
     font-size: 1.5em;
 }
