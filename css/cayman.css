@@ -489,6 +489,10 @@ a:hover {
     font-size: 1.5em;
 }
 
+.main-content h2 {
+    font-size: 1.2em;
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
@@ -592,10 +596,15 @@ a:hover {
     word-break: normal;
     word-break: keep-all;
     -webkit-overflow-scrolling: touch;
+    font-size: 0.9rem;
 }
 
 .main-content table th {
     font-weight: bold;
+}
+
+.main-content table tr:nth-child(even) {
+    background-color: #f7f7f7
 }
 
 .main-content table th, .main-content table td {
@@ -629,25 +638,25 @@ a:hover {
 
 .site-footer {
     padding-top: 2rem;
-    margin-top: 2rem;
+    margin-top: 4rem;
     border-top: solid 1px #eff0f1;
 }
 
 @media screen and (min-width: 64em) {
     .site-footer {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .site-footer {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 }
 
 @media screen and (max-width: 42em) {
     .site-footer {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 }
 
