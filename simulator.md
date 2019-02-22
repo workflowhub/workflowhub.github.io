@@ -16,6 +16,9 @@ subset of the relevant scenarios that may be encountered in practice.
 
 ## List of Workflow Simulators
 
+Below, you find a list of workflow management systems simulators that support
+the traces and generator formats (JSON), and tools defined by this project.
+
 | Simulator | Description | Website |
 | --- | --- | --- |
 | WRENCH | A simulation framework distributed as a C++ library | [https://wrench-project.org](https://wrench-project.org)
