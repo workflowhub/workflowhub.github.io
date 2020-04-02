@@ -1,6 +1,6 @@
 # Setup
 title:        WorkflowHub
-tagline:      A hub for enabling scientific workflow research.
+tagline:      Community Framework for Enabling Scientific Workflow Research and Education
 baseurl:      ""
 paginate:     1
 locale:       "en"
