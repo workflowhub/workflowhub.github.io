@@ -24,13 +24,14 @@ extreme scale, etc.), among others.
 ## List of Workflow Simulators
 
 In this page, we keep a list of _open source_ workflow management systems 
-simulators that provide support for **[The WorkflowHub JSON format](json.html)**, 
+simulators and simulation frameworks that provide support for 
+**[The WorkflowHub JSON format](json.html)**,
 which is used for generating [workflow execution traces](traces.html), and 
 synthetic workflows obtained with the [workflow generator](generator.html).
 
 #### Open Source Simulator Repositories
 
-| Simulator | Description | Website |
+| Simulator / Framework | Description | Website |
 | --- | --- | --- |
 | WRENCH | A simulation framework distributed as a C++ library           | [https://wrench-project.org](https://wrench-project.org)
 | WRENCH-Pegasus | A WRENCH-based simulator of the Pegasus WMS           | [https://github.com/wrench-project/pegasus](https://github.com/wrench-project/pegasus)
