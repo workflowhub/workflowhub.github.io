@@ -1,0 +1,17 @@
+- name: "WRENCH"
+  website: "https://wrench-project.org"
+  description: "A simulation framework distributed as a C++ library"
+  travis: "wrench-project/wrench.svg?branch=master"
+  release: "https://img.shields.io/github/release/wrench-project/wrench/all.svg"
+
+- name: "WRENCH-Pegasus"
+  website: "https://github.com/wrench-project/pegasus"
+  description: "A WRENCH-based simulator of the Pegasus WMS"
+  travis: "wrench-project/pegasus.svg?branch=master"
+  release: "https://img.shields.io/github/release/wrench-project/pegasus/all.svg"
+
+- name: "WRENCH-WorkQueue"
+  website: "https://github.com/wrench-project/workqueue"
+  description: "A WRENCH-based simulator of the WorkQueue framework"
+  travis: "wrench-project/workqueue.svg?branch=master"
+  release: ""

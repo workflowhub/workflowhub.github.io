@@ -1,0 +1,6 @@
+- name: "Pegasus Workflow Execution Traces"
+  website: "https://github.com/workflowhub/pegasus-traces"
+  applications: 5
+  platforms: 1
+  traces: 90
+  travis: "workflowhub/pegasus-traces.svg?branch=master"

@@ -26,6 +26,9 @@ structure and pointers to relevant material.
 
 #### Open Access Trace Repositories
 
-| Repository | # Applications | # Computing Platforms | # Traces | 
-| --- | --- | --- | --- |
-| [Pegasus Workflow Execution Traces](https://github.com/workflowhub/pegasus-traces) | 5 | 1 | 90 |
+| Repository | # Applications | # Computing Platforms | # Traces | | 
+| --- | --- | --- | --- | --- |
+{%- for t in site.data.traces %}
+| [{{ t.name }}]({{ t.website }}) | {{ t.applications}} | {{ t.platforms }} | {{ t.traces }} | <img src="https://travis-ci.org/{{ t.travis }}"/> |
+{%- endfor -%}
+

@@ -31,8 +31,8 @@ synthetic workflows obtained with the [workflow generator](generator.html).
 
 #### Open Source Simulator Repositories
 
-| Simulator / Framework | Description | Website |
-| --- | --- | --- |
-| WRENCH | A simulation framework distributed as a C++ library           | [https://wrench-project.org](https://wrench-project.org)
-| WRENCH-Pegasus | A WRENCH-based simulator of the Pegasus WMS           | [https://github.com/wrench-project/pegasus](https://github.com/wrench-project/pegasus)
-| WRENCH-WorkQueue | A WRENCH-based simulator of the WorkQueue framework | [https://github.com/wrench-project/workqueue](https://github.com/wrench-project/workqueue)
+| Simulator / Framework | Description |  |
+|---|---|---|
+{%- for s in site.data.simulators %}
+| [{{ s.name }}]({{ s.website }}) | {{ s.description}} | <img src="https://travis-ci.org/{{ s.travis }}"/> <img src="{{ s.release }}"/> |
+{%- endfor -%}
