@@ -16,7 +16,7 @@ shared in a common trace format.
 ## List of Workflow Execution Traces
 
 In this page, we keep a list of _open access_ workflow execution trace repositories 
-that host traces compliant with the **[The WorkflowHub JSON format](json.html)** for 
+that host traces compliant with **[The WorkflowHub JSON format](/json-format)** for 
 describing workflow executions. We are constantly seeking for additional workflow 
 execution traces for refining or developing new workflow recipes for the WorkflowHub's 
 [workflow generator](/generator).
@@ -28,6 +28,11 @@ application, a `README.md` file provides detailed description of the workflow
 structure and pointers to relevant material.
 
 #### Open Access Trace Repositories
+
+We are constantly seeking for additional traces to be added to the list below. 
+If you want to also have your traces listed in this page, please contact us 
+at <traces@workflowhub.org>. Note that each trace should be compatible with 
+[The WorkflowHub JSON format](/json-format).
 
 | Repository | # Applications | # Computing Platforms | # Traces | | 
 | --- | --- | --- | --- | --- |

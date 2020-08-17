@@ -26,7 +26,7 @@ extreme scale, etc.), among others.
 
 In this page, we keep a list of _open source_ workflow management systems 
 simulators and simulation frameworks that provide support for 
-**[The WorkflowHub JSON format](json.html)**,
+**[The WorkflowHub JSON format](/json-format)**,
 which is used for generating [workflow execution traces](/traces), and 
 synthetic workflows obtained with the [workflow generator](/generator).
 

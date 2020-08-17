@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: generator
 ---
 
 # Workflow Generator

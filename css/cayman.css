@@ -640,6 +640,7 @@ a:hover {
     padding-top: 2rem;
     margin-top: 4rem;
     border-top: solid 1px #eff0f1;
+    min-height: 5em;
 }
 
 @media screen and (min-width: 64em) {
