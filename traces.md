@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: traces
 ---
 
 # Workflow Execution Traces
@@ -16,7 +17,9 @@ shared in a common trace format.
 
 In this page, we keep a list of _open access_ workflow execution trace repositories 
 that host traces compliant with the **[The WorkflowHub JSON format](json.html)** for 
-describing workflow executions.
+describing workflow executions. We are constantly seeking for additional workflow 
+execution traces for refining or developing new workflow recipes for the WorkflowHub's 
+[workflow generator](/generator).
 
 Workflow execution traces are organized into sub-folders within the repositories. 
 Each sub-folder represents a workflow application, which itself contains sub-folders 
