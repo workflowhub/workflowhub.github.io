@@ -8,6 +8,8 @@ title: About - WorkflowHub
 
 WorkflowHub is open-source software distributed under the LGPLv3 license.
 
+Please submit any inquiries to <support@workflowhub.org>.
+
 ## The WorkflowHub Team
 
 WorkflowHub is developed by a collaborative team from the [University 
