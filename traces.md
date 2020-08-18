@@ -12,7 +12,9 @@ evaluate methods and techniques in simulation or in real conditions.
 
 The first axis of the WorkflowHub project targets the collection and curation of
 **open access** production workflow executions from various scientific applications 
-shared in a common trace format.
+shared in a common trace format. The **[WorkflowHub Python package](http://workflowhub.readthedocs.io)**
+provides a set of tools for analyzing traces, which can be used to develop 
+workflow recipes for the [Workflow Generator](/generator).
 
 ## List of Workflow Execution Traces
 
