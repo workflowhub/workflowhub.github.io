@@ -673,3 +673,30 @@ a:hover {
 .site-footer-credits {
     color: #819198;
 }
+
+.team {
+    margin-top: 2em;
+    min-height: 4em;
+    min-width: 12em;
+}
+
+.team img {
+    float: left;
+    margin-right: 1em;
+    width: 5em;
+    border-radius: 10px;
+    box-shadow: #ccc 3px 3px 3px;
+}
+
+.team-info {
+    float: left;
+    font-size: 0.8em;
+    margin-top: 0.5em;
+}
+
+.team-links {
+    margin-top: 0.5em;
+    font-size: 0.75em;
+    color: #999;
+}
+
