@@ -32,6 +32,11 @@ synthetic workflows obtained with the [workflow generator](/generator).
 
 #### Open Source Simulator Repositories
 
+We are constantly seeking for additional simulators to be added to the list 
+below. If you want to also have your simulator listed in this page, please 
+contact us at <simulators@workflowhub.org>. Note that each simulator should 
+be compatible with [The WorkflowHub JSON format](/json-format).
+
 | Simulator / Framework | Description |  |
 |---|---|---|
 {%- for s in site.data.simulators %}
