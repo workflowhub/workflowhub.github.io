@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: traces
+title: Traces - WorkflowHub
 ---
 
 # Workflow Execution Traces

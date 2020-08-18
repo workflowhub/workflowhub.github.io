@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: simulator
+title: Simulator - WorkflowHub
 ---
 
 # Workflow Simulator

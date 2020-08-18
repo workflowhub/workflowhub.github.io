@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: json-format
+title: JSON Format - WorkflowHub
 ---
 
 # The WorkflowHub JSON Format

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.name }}
+title: WorkflowHub
 ---
 
 # The WorkflowHub Project
