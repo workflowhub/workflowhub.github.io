@@ -354,6 +354,13 @@ a:hover {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    padding: 0 !important;
+}
+
+.page-header-layer {
+    background-color: rgba(100, 100, 100, 0.2);
+    background-size: cover;
+    padding: 3em;
 }
 
 .page-header .menu {
