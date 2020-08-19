@@ -35,6 +35,7 @@ clouds, IoT, extreme scale, etc.), among others.
 
 ## The WorkflowHub Python Package
 
+[![PyPI version][pypi-badge]][pypi-link]
 [![Travis][travis-badge]][travis-link]
 [![License: LGPL v3][license-badge]][license-link]
 [![Documentation Status][rtd-badge]][rtd-link]
@@ -50,6 +51,8 @@ released as an open source Python package, in which enables:
 The [Python package documentation](https://workflowhub.readthedocs.io) provides 
 all necessary information on how to install and use the available tools.
 
+[pypi-badge]:          https://badge.fury.io/py/workflowhub.svg
+[pypi-link]:           https://badge.fury.io/py/workflowhub
 [travis-badge]:   https://travis-ci.org/workflowhub/workflowhub.svg?branch=master
 [travis-link]:    https://travis-ci.org/workflowhub/workflowhub
 [license-badge]:  https://img.shields.io/badge/License-LGPL%20v3-blue.svg
