@@ -14,17 +14,17 @@ that paper, as it provides a recent and general overview on the framework.
 <pre>
 R. Ferreira da Silva, L. Pottier, T. Coleman, E. Deelman, and H. Casanova, 
 "WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development," 
-in 15th Workshop on Workflows in Support of Large-Scale Science (WORKS'20), 2020.
+in 2020 IEEE/ACM Workflows in Support of Large-Scale Science (WORKS), p. 49-56, 2020. DOI: 10.1109/WORKS51914.2020.00012
 </pre>
 
 <pre>
 @inproceedings{ferreiradasilva2020works,
   title = {WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development},
   author = {Ferreira da Silva, Rafael and Pottier, Lo\"ic and Coleman, Tain\~a and Deelman, Ewa and Casanova, Henri},
-  booktitle = {15th Workshop on Workflows in Support of Large-Scale Science (WORKS'20)},
+  booktitle = {2020 IEEE/ACM Workflows in Support of Large-Scale Science (WORKS)},
   year = {2020},
-  pages = {},
-  doi = {}
+  pages = {49--56},
+  doi = {10.1109/WORKS51914.2020.00012}
 }
 </pre>
 
@@ -35,6 +35,6 @@ in 15th Workshop on Workflows in Support of Large-Scale Science (WORKS'20), 2020
         R. Ferreira da Silva, L. Pottier, T. Coleman, E. Deelman, and H. Casanova, 
         <a href="https://rafaelsilva.com/files/publications/ferreiradasilva2020works.pdf" target="_blank">
         <strong>WorkflowHub: Community Framework for Enabling Scientific Workflow Research and 
-        Development</strong></a>, in 15th Workshop on Workflows in Support of Large-Scale Science (WORKS’20), 2020.
+        Development</strong></a>, in 2020 IEEE/ACM Workflows in Support of Large-Scale Science (WORKS), p. 49-56, 2020.
     </li>
 </ol>
