@@ -34,6 +34,7 @@ workflow applications:
 - **Montage**: A high-throughput compute-intensive astronomy workflow.
 - **Seismology**: A high-throughput data-intensive seismology workflow.
 - **SoyKB**: A high-throughput data-intensive bioinformatics workflow.
+- **SRASearch**: A high-throughput data-intensive bioinformatics workflow.
 
 The Workflow Generator is constantly evolving and additional workflow
 recipes will be added into new releases of the Python package.
