@@ -1,3 +1,9 @@
+- name: "Makeflow Workflow Execution Traces"
+  website: "https://github.com/workflowhub/makeflow-traces"
+  applications: 2
+  platforms: 1
+  traces: 30
+
 - name: "Pegasus Workflow Execution Traces"
   website: "https://github.com/workflowhub/pegasus-traces"
   applications: 7
