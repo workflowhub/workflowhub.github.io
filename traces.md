@@ -40,6 +40,6 @@ at <traces@workflowhub.org>. Note that each trace should be compatible with
 | Repository | # Applications | # Computing Platforms | # Traces | | 
 | --- | --- | --- | --- | --- |
 {%- for t in site.data.traces %}
-| [{{ t.name }}]({{ t.website }}) | {{ t.applications}} | {{ t.platforms }} | {{ t.traces }} | <img src="https://travis-ci.org/{{ t.travis }}"/> |
+| [{{ t.name }}]({{ t.website }}) | {{ t.applications}} | {{ t.platforms }} | {{ t.traces }} | <img src="{{ t.website }}/workflows/{{ t.action }}/badge.svg"/> |
 {%- endfor -%}
 

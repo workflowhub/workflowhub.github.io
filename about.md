@@ -28,23 +28,23 @@ Hawai'i at Mãnoa](https://www.ics.hawaii.edu) (UHM).
 </div>
 
 <div class="team">
-    <img src="/assets/images/team/pottier.jpg" />
-    <div class="team-info">
-        <strong>Loïc Pottier</strong><br/>
-        University of Southern California<br/>
-        <div class="team-links">
-            <a href="http://loicpottier.com" target="_blank">Website</a> |
-        </div>
-    </div>
-</div>
-
-<div class="team">
     <img src="/assets/images/team/coleman.jpg" />
     <div class="team-info">
         <strong>Tainã Coleman</strong><br/>
         University of Southern California<br/>
         <div class="team-links">
             <a href="http://tainacoleman.com" target="_blank">Website</a> |
+        </div>
+    </div>
+</div>
+
+<div class="team">
+    <img src="/assets/images/team/pottier.jpg" />
+    <div class="team-info">
+        <strong>Loïc Pottier</strong><br/>
+        University of Southern California<br/>
+        <div class="team-links">
+            <a href="http://loicpottier.com" target="_blank">Website</a> |
         </div>
     </div>
 </div>

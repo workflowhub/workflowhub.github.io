@@ -3,10 +3,11 @@
   applications: 2
   platforms: 1
   traces: 30
+  action: Build
 
 - name: "Pegasus Workflow Execution Traces"
   website: "https://github.com/workflowhub/pegasus-traces"
   applications: 7
   platforms: 1
   traces: 126
-  travis: "workflowhub/pegasus-traces.svg?branch=master"
+  action: Build
