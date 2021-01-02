@@ -22,11 +22,13 @@ different methods for generating synthetic, yet realistic, workflow
 traces depending on the properties that define the structure of the 
 actual workflow.
 
-The current list of available workflow recipes include the following
-workflow applications:
+The current list of [available workflow recipes](https://docs.workflowhub.org/en/latest/generating_workflows.html#workflow-recipes) 
+include the following workflow applications:
 
 - **1000Genome**: A high-throughput data-intensive bioinformatics 
                   workflow.
+- **BLAST**: A high-throughput compute-intensive bioinformatics workflow.
+- **BWA**: A high-throughput data-intensive bioinformatics workflow.
 - **Cycles**: A high-throughput compute-intensive scientific workflow 
               for agroecosystems modeling.
 - **Epigenomics**: A high-throughput data-intensive bioinformatics 
